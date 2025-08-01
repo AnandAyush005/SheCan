@@ -53,7 +53,8 @@ A full-stack web app with a dummy login/signup frontend and a secure backend API
    npm install
    node index.js
 
-#Frontend
+2. Navigate to frontend
+   
   ```bash
   cd frontend
   npm install
